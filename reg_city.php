@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: text/html; charset=utf-8');
 include 'connect.php';
-include 'checkLogin.php';
+//include 'checkLogin.php';
 
 if(isset($_POST['sub'])){
     
